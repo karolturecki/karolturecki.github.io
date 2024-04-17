@@ -2,6 +2,6 @@ body {
     background-color: #181825;
     text-align: center;
 }
-p { color: #a6adc8; font-family: 'Noto Sans'; font-size: 20px; }
-h2 { color: #cdd6f4; font-family: 'Monospace'; }
-h1 {color: #585b70; font-family:''}
+p { color: #585b70; font-family: 'Noto Sans'; font-size: 20px; }
+h2 { color: #585b70; font-family: 'Monospace'; font-size: 35px; }
+h1 {color: #585b70; font-family:'Monospace'; font-size: 60px;}
