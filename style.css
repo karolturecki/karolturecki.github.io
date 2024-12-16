@@ -30,13 +30,17 @@ h1 {
 .item {
     display: flex;
     align-items: center;
+    justify-content: flex-start;
     margin: 10px;
 }
 
 .kropka {
-    align-items:center;
-    height: 100%;
-    width: 20px;
+    align-items: center;
+    width: 10px;
+    height: 10px;
+    background-color: #181825;
+    border-radius: 50%;
+    margin-right: 10px;
 }
 
 
@@ -56,11 +60,19 @@ h1 {
 .zdj2 {
     background: #181825;
     width: 70px;
-    height: 50px;
+    height: 60px;
 }
 
 .zdj3 {
     background: #181825;
     width: 70px;
-    height: 80px;
+    height: 60px;
+}
+.centrowanie{
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    object-fit: cover;
 }
