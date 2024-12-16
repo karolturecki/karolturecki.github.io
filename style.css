@@ -1,0 +1,66 @@
+body {
+    background-color: #181825;
+    text-align: center;
+}
+
+p {
+    color: #585b70;
+    font-family: 'Noto Sans';
+    font-size: 20px;
+}
+
+h2 {
+    color: #585b70;
+    font-family: 'Monospace';
+    font-size: 35px;
+}
+
+h1 {
+    color: #585b70;
+    font-family: 'Monospace';
+    font-size: 60px;
+}
+
+.code {
+    font-family: 'Monospace';
+    font-size: 12px;
+}
+
+
+.item {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.kropka {
+    align-items:center;
+    height: 100%;
+    width: 20px;
+}
+
+
+.ada {
+    left: 1px;
+    top: 0px;
+
+}
+
+.zdj {
+    padding: 10px;
+    background: #181825;
+    width: 70px;
+    height: 70px;
+}
+
+.zdj2 {
+    background: #181825;
+    width: 70px;
+    height: 50px;
+}
+
+.zdj3 {
+    background: #181825;
+    width: 70px;
+    height: 80px;
+}
