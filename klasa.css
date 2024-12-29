@@ -2,7 +2,36 @@ body {
     background-color: #181825;
     text-align: center;
 }
-p { color: #585b70; font-family: 'Noto Sans'; font-size: 20px; }
-h2 { color: #585b70; font-family: 'Monospace'; font-size: 35px; }
-h1 { color: #585b70; font-family:'Monospace'; font-size: 60px; }
-.code { font-family: 'Monospace'; font-size: 12px; }
+
+p {
+    color: #585b70;
+    font-family: 'Noto Sans';
+    font-size: 20px;
+}
+
+h2 {
+    color: #585b70;
+    font-family: 'Monospace';
+    font-size: 35px;
+}
+
+h1 {
+    color: #585b70;
+    font-family: 'Monospace';
+    font-size: 60px;
+}Q
+
+.code {
+    font-family: 'Monospace';
+    font-size: 12px;
+}
+
+.wideo{
+    display: inline;
+    margin: 0 auto;
+    border: 2px;
+}
+
+.muzyka-tlo{
+
+}
